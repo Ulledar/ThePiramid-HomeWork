@@ -1,9 +1,9 @@
 ﻿using System;
 using static System.Console;
 
-namespace ThePiramid
+namespace ThePiramide
 {
-    class Program
+    class Piramide
     {
         static void Main(string[] args)
         {
